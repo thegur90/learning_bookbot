@@ -1,2 +1,3 @@
-# learning_bookbot
-A personal learning project - Text Analysis
+# bookbot
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
